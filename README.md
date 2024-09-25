@@ -28,7 +28,7 @@ Run the SQL queries in your preferred database environment...
 Feel free to submit issues or pull requests!
 
 ## Contact Information
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+You can reach me at [your-email@example.com](mailto:dennisjameslyons@gmail.com).
 
 ## License
 This project is licensed under the MIT License.
